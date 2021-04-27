@@ -246,7 +246,7 @@ function startEmpManager() {
               role_id: answer.role
             },
             {
-              id: answer.employees
+              id: answer.employee
             }
           ],
           (err, res) => {
